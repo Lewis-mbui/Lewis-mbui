@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Lewis!
 
-I'm a recent Electronics and Computer Engineering graduate currently learning web development.  
-I enjoy building small projects with HTML, CSS, JavaScript, and I’m growing my skills in TypeScript and React.
 
-### 🚀 Technologies
+I'm a software development enthusiast currently learning and building projects with modern front-end technologies.  
+I enjoy exploring new concepts, improving my problem-solving skills, and creating simple, clean interfaces.
+
+### 🚀 Technologies I use
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" width="40" />
