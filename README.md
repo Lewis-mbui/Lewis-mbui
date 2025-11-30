@@ -3,7 +3,7 @@
 I'm a recent Electronics and Computer Engineering graduate currently learning web development.  
 I enjoy building small projects with HTML, CSS, JavaScript, and I’m growing my skills in TypeScript and React.
 
-### 🚀 Technologies I'm Comfortable With
+### 🚀 Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" width="40" />
