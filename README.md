@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Lewis!
 
 
-I'm a software development enthusiast currently learning and building projects with modern front-end technologies.  
-I enjoy exploring new concepts, improving my problem-solving skills, and creating simple, clean interfaces.
+I build modern web experiences with a focus on performance, clean design, and great user experience. 
+Currently specializing in JavaScript, React, and TypeScript while expanding into backend development with Node.js.
 
 ### 🚀 Technologies I use
 
