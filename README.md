@@ -12,6 +12,9 @@ Currently specializing in JavaScript, React, and TypeScript while expanding into
   <img src="https://skillicons.dev/icons?i=javascript" width="40" />
   <img src="https://skillicons.dev/icons?i=typescript" width="40" />
   <img src="https://skillicons.dev/icons?i=react" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
 </p>
 
 Thanks for stopping by!
